@@ -1,16 +1,68 @@
-### Hi there 👋
+# Rudrodip Sarker - GitHub Profile
 
-<!--
-**rudrodip/rudrodip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Here are some ideas to get you started:
+## Welcome to My GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! I'm Rudrodip Sarker, a passionate student and hobbyist programmer studying in Class 12 at Rajshahi College. I have a keen interest in mathematics, physics, and computers, and I love combining them to create exciting projects.
+
+### About Me
+
+- 🔭 I'm currently working on enhancing my programming skills and building fascinating projects.
+- 🌱 I'm constantly learning new technologies and exploring the world of computer science.
+- 💬 Ask me about web development, mobile app development, machine learning, or anything related to programming. I'd be glad to help!
+- 😄 Pronouns: He/Him
+
+### My Interests
+
+I enjoy working on diverse projects that merge my passions for math, physics, and computers. Whether it's creating web applications, building smart chatbots, or tinkering with microcontrollers, I always embrace new challenges.
+
+### Technologies I Love
+
+- Web Development: Next.js, Python, Flask
+- Mobile App Development: Flutter
+- Machine Learning: ML libraries in Python
+- Microcontrollers: Arduino, ESP32 (C++ and C)
+
+### Languages
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrodip&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact" alt="rudrodip" />
+</p>
+
+### My Projects
+
+Check out some of my projects on my website: [rudrodipsarker.vercel.app](https://rudrodipsarker.vercel.app)
+
+### Let's Connect
+
+- 📧 Email: official.rudrodipsarker@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rudrodip-sarker-964392262/)
+- 📘 Facebook: [Facebook Profile](https://www.facebook.com/enthusiast.math)
+- 📷 Instagram: [Instagram Profile](https://instagram.com/martian_agi)
+
+Feel free to explore my repositories and reach out to me for any collaboration or interesting discussions!
+
+Happy coding! 🚀
