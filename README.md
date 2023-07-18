@@ -19,10 +19,10 @@ I enjoy working on diverse projects that merge my passions for math, physics, an
 
 ### Technologies I Love
 
-- Web Development: Next.js, Python, Flask
-- Mobile App Development: Flutter
-- Machine Learning: ML libraries in Python
-- Microcontrollers: Arduino, ESP32 (C++ and C)
+- Web Development: React, Next.js, Python, Flask
+- Mobile App Development: Flutter, React Native
+- Machine Learning: Pytorch
+- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 and more (C++ and C)
 
 ### Languages
 
