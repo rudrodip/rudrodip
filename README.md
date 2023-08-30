@@ -54,7 +54,7 @@ I enjoy working on diverse projects that merge my passions for math, physics, an
 
 ### My Projects
 
-Check out some of my projects on my website: [rudrodipsarker.vercel.app](https://rudrodipsarker.vercel.app)
+Check out some of my projects on my website: [rudrodipsarker.vercel.app](https://rudrodip.vercel.app)
 
 ### Let's Connect
 
