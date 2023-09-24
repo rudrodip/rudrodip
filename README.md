@@ -6,6 +6,8 @@
 
 Hello there! I'm Rudrodip Sarker, a passionate student and hobbyist programmer studying in Class 12 at Rajshahi College. I have a keen interest in mathematics, physics, and computers, and I love combining them to create exciting projects.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/841126921886498817)](https://discord.com/users/841126921886498817)
+
 ### About Me
 
 - 🔭 I'm currently working on enhancing my programming skills and building fascinating projects.
