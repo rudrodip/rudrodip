@@ -1,10 +1,10 @@
 # Rudrodip Sarker - GitHub Profile
 
-![Profile Banner](https://raw.githubusercontent.com/rudrodip/rudrodip/main/portfolio-website.png)
+![Profile Banner](https://raw.githubusercontent.com/rudrodip/rudrodip/main/portfolio.png)
 
 ## Welcome to My GitHub Profile!
 
-Hello there! I'm Rudrodip Sarker, a passionate student and hobbyist programmer studying in Class 12 at Rajshahi College. I have a keen interest in mathematics, physics, and computers, and I love combining them to create exciting projects.
+Hello there! I'm Rudrodip Sarker, a passionate student and hobbyist programmer who passed Class 12 from Rajshahi College. I have a keen interest in mathematics, physics, and computers, and I love combining them to create exciting projects.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/841126921886498817)](https://discord.com/users/841126921886498817)
 
@@ -24,7 +24,7 @@ I enjoy working on diverse projects that merge my passions for math, physics, an
 - Web Development: React, Next.js, Python, Flask
 - Mobile App Development: Flutter, React Native
 - Machine Learning: Pytorch
-- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 and more (C++ and C)
+- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32, and more (C++ and C)
 
 ### Languages
 
@@ -63,7 +63,7 @@ Check out some of my projects on my website: [rudrodip.vercel.app](https://rudro
 - 📧 Email: official.rudrodipsarker@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rudrodip-sarker-964392262/)
 - 📘 Facebook: [Facebook Profile](https://www.facebook.com/enthusiast.math)
-- 📷 Instagram: [Instagram Profile](https://instagram.com/martian_agi)
+- 📷 Instagram: [Instagram Profile](https://instagram.com/rds_agi)
 
 Feel free to explore my repositories and reach out to me for any collaboration or interesting discussions!
 
