@@ -56,12 +56,12 @@ I enjoy working on diverse projects that merge my passions for math, physics, an
 
 ### My Projects
 
-Check out some of my projects on my website: [rudrodip.vercel.app](https://rudrodip.vercel.app)
+Check out some of my projects on my website: [rudrodip.tech](https://rudrodip.tech)
 
 ### Let's Connect
 
 - 📧 Email: official.rudrodipsarker@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rudrodip-sarker-964392262/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rudrodip)
 - 📘 Facebook: [Facebook Profile](https://www.facebook.com/enthusiast.math)
 - 📷 Instagram: [Instagram Profile](https://instagram.com/rds_agi)
 
