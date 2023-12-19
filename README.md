@@ -1,6 +1,6 @@
 # Rudrodip Sarker - GitHub Profile
 
-![Profile Banner](https://raw.githubusercontent.com/rudrodip/rudrodip/main/portfolio.png)
+![Profile Banner](https://raw.githubusercontent.com/rudrodip/rudrodip/main/og.png)
 
 ## Welcome to My GitHub Profile!
 
