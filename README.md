@@ -1,6 +1,6 @@
 ### Technologies I Love
 
-- Web Development: React, Next.js, Python, Flask, NodeJS, NestJS, ExpressJS, Go, Mux, Echo, Rust
+- Web: React, Next.js, Python, Flask, NodeJS, NestJS, ExpressJS, Go, Mux, Echo, Rust
 - Web3: Solidity, Rust
 - Mobile App Development: Flutter, React Native
 - Machine Learning: Pytorch, Scikit-Learn
