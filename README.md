@@ -1,3 +1,6 @@
+## Hey
+I'm Rudrodip (aka rds_agi)
+
 ### Technologies I Love (I've diverse interest 😅)
 
 - Languages: C, C++, Python, Go, Rust, Javascript, Typescript, Dart, Solidity
