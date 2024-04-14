@@ -17,7 +17,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 <details>
   <summary>
-    🔴 Sonicrypt
+    🔴 Sonicrypt - it is a compact and intuitive device designed to enhance the user experience for both buyers and sellers engaging in crypto transactions
   </summary>
 
   <br />
@@ -50,7 +50,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </details>
 
 <details>
-  <summary>🔵 NexusOS</summary>
+  <summary>🔵 NexusOS - is a platform that empowers researchers, scientists, and innovators to come together and collaborate on impactful scientific projects</summary>
 
   <br />
   
@@ -70,7 +70,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </details>
 
 <details>
-  <summary>⚪️ Harmonic Motion Analyzer</summary>
+  <summary>⚪️ Harmonic Motion Analyzer - is designed to analyze the harmonic oscillation of an object using computer vision techniques</summary>
 
   <br />
   
