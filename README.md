@@ -11,20 +11,26 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
 - 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Elon Musk**](https://books.google.com.bd/books/about/Elon_Musk.html?id=HjyvEAAAQBAJ&redir_esc=y)
 
+<br />
+<br />
+
+<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="350" />
+
 ### Featured projects
 
 <details>
   <summary>
-    Sonicrypt
+    🔴 Sonicrypt
   </summary>
-  
-  ![sonicrypt](https://github.com/rudrodip/rudrodip/assets/77154365/37b20faa-1dd4-4913-bfd1-8e69811c4951)
+
+  <p align="center">
+    <img width="60%" src="https://github.com/rudrodip/rudrodip/assets/77154365/3b034a80-8fb4-4c1b-9671-bbd13850e3c8" />
+  </p>
   
   [Sonicrypt](https://github.com/Sonicrypt) is a compact and intuitive device designed to enhance the user experience for both buyers and sellers engaging in crypto transactions
   It consists of a hardware device, mobile app and a website
   
   **Tech stack**:
-
   - Device
     - Language: C++
     - Microcontroller: ESP32-S3
@@ -47,19 +53,37 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </details>
 
 <details>
-  <summary>[NexusOS](https://nexusos.vercel.app)</summary>
+  <summary>🔵 NexusOS</summary>
 
-  <p>
-    [NexusOS](https://github.com/rudrodip/NexusOS) is a platform that empowers researchers, scientists, and innovators to come together and collaborate on impactful scientific projects.
+  <p align="center">
+    <img width=="60%" src="https://nexusos.vercel.app/_next/image?url=%2Fgifs%2Fai-repo.gif&w=3840&q=75" />
   </p>
+
+  
+  [NexusOS](https://github.com/rudrodip/NexusOS) is a platform that empowers researchers, scientists, and innovators to come together and collaborate on impactful scientific projects.
+
+  **Tech stack**:
+  - Language: Typescript
+  - Framework: Next.JS
+  - Style: CSS, Tailwindcss
+  - Animation: Framer motion
+  - Libs/SDKs: Github octokit, NextAuth
+  - API - ZenodoAPI, OpenAI gpt-3.5-turbo
+
+  Website: [**_nexusos.vercel.app_**](https://nexusos.vercel.app)
 </details>
 
 <details>
-  <summary>[Harmonic Motion Analyzer](https://github.com/rudrodip/Harmonic-Oscillator-CV)</summary>
+  <summary>⚪️ Harmonic Motion Analyzer</summary>
 
-  <p>
-    This Python project is designed to analyze the harmonic oscillation of an object using computer vision techniques
+  <p align="center">
+    <img width="60%" src="https://github.com/rudrodip/rudrodip/assets/77154365/8e987758-aa89-42cd-bc1c-90711bb39084" />
   </p>
+
+  [Harmonic Motion Analyzer](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the harmonic oscillation of an object using computer vision techniques
+
+  Blog: [**_blog_**](https://www.rudrodip.tech/blog/harmonic-oscillation-analyzer)
+  Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
 ### Recent projects
