@@ -2,8 +2,8 @@
 
 # Hi, I am Rudro (a.k.a. [@rds_agi](https://twitter.com/rds_agi))
 
-I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 <img align='right' src='https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa' width='177'>
+I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
 - 💻 I'm currently working on [**Sonicrypt**](https://sonicrypt.vercel.app), a sonification device for blockchain transaction
 - 🤖 I'm also diving into **AI** orchestration and agentic framrework
@@ -12,9 +12,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Elon Musk**](https://books.google.com.bd/books/about/Elon_Musk.html?id=HjyvEAAAQBAJ&redir_esc=y)
 
 <br />
-<br />
-
-<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="350" />
 
 ### Featured projects
 
@@ -23,9 +20,9 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
     🔴 Sonicrypt
   </summary>
 
-  <p align="center">
-    <img width="60%" src="https://github.com/rudrodip/rudrodip/assets/77154365/3b034a80-8fb4-4c1b-9671-bbd13850e3c8" />
-  </p>
+  <br />
+  
+  <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/3b034a80-8fb4-4c1b-9671-bbd13850e3c8" />
   
   [Sonicrypt](https://github.com/Sonicrypt) is a compact and intuitive device designed to enhance the user experience for both buyers and sellers engaging in crypto transactions
   It consists of a hardware device, mobile app and a website
@@ -55,10 +52,9 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 <details>
   <summary>🔵 NexusOS</summary>
 
-  <p align="center">
-    <img width=="60%" src="https://nexusos.vercel.app/_next/image?url=%2Fgifs%2Fai-repo.gif&w=3840&q=75" />
-  </p>
-
+  <br />
+  
+  <img align="right" width="40%" src="https://nexusos.vercel.app/_next/image?url=%2Fgifs%2Fai-repo.gif&w=3840&q=75" />
   
   [NexusOS](https://github.com/rudrodip/NexusOS) is a platform that empowers researchers, scientists, and innovators to come together and collaborate on impactful scientific projects.
 
@@ -76,15 +72,19 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 <details>
   <summary>⚪️ Harmonic Motion Analyzer</summary>
 
-  <p align="center">
-    <img width="60%" src="https://github.com/rudrodip/rudrodip/assets/77154365/8e987758-aa89-42cd-bc1c-90711bb39084" />
-  </p>
+  <br />
+  
+  <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/8e987758-aa89-42cd-bc1c-90711bb39084" />
 
   [Harmonic Motion Analyzer](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the harmonic oscillation of an object using computer vision techniques
 
   Blog: [**_blog_**](https://www.rudrodip.tech/blog/harmonic-oscillation-analyzer)
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
+
+<br />
+
+<img align="right" style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="350" />
 
 ### Recent projects
 
@@ -94,6 +94,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - [DummyLSP](https://github.com/rudrodip/dummylsp) - Its a simple lsp server implemented in go for learning purpose
 - [Nextemplate](https://nextemplate.vercel.app) - Collection of custom templates and components made with Next.JS, shadcn/ui and TailwindCSS
 
+<br />
 
 ### Technologies I Love (I've diverse interest 😅)
 
@@ -105,10 +106,9 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Deep Learning: [Pytorch](https://pytorch.org/), [Tinygrad](https://tinygrad.org), [Fastai](https://www.fast.ai/)
 - Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
 
+<br />
+
 Portfolio: [rudrodip.tech](https://rudrodip.tech)
-
 Twitter/X: [rds_agi](https://www.twitter.com/rds_agi)
-
 LinkedIn: [Rudrodip Sarker](https://linkedin.com/in/rudrodip)
-
 Peerlist: [Rudrodip Sarker](https://peerlist.io/rds_agi)
