@@ -1,3 +1,4 @@
+![banner](https://github.com/rudrodip/rudrodip/assets/77154365/4c4159af-e34b-4134-aace-443798798d08)
 ### Featured projects
 
 - [Sonicrypt](https://sonicrypt.vercel.app) - [Sonicrypt](https://github.com/Sonicrypt) is an organization focused on improving the user experience for crypto transactions
