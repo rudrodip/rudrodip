@@ -6,7 +6,7 @@
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
 - 💻 I'm currently working on [**Sonicrypt**](https://sonicrypt.vercel.app), a sonification device for blockchain transaction
-- 🤖 I'm also diving into **AI** orchestration and agentic framrework
+- 🤖 I'm also diving into **AI** orchestration and agentic framework
 - 🎛️ I'm looking for **electronics** enthusiast, **CAD** designers, and **_Solana_** developers
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
 - 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Elon Musk**](https://books.google.com.bd/books/about/Elon_Musk.html?id=HjyvEAAAQBAJ&redir_esc=y)
