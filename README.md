@@ -115,8 +115,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Mobile: React Native (both Expo and raw)
 
 
-Sure, here's the table with 4 columns:
-
 | Portfolio | Twitter/X | LinkedIn | Peerlist |
 |-|-|-|-|
 | [rudrodip.tech](https://rudrodip.tech) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
