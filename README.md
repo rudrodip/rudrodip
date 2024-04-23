@@ -122,5 +122,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 | LinkedIn            | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip)                     |
 | Peerlist            | [Rudro Dip Sarker](https://peerlist.io/rds_agi)                          |
 | Wellfound           | [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker)              |
+| Upwork              | [Rudro Dip Sarker](https://www.upwork.com/freelancers/~0146386d87470a4343)|
 | Schedule a call     | [cal.com/rds_agi](https://cal.com/rds_agi)                              |
 | Resume              | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) |
