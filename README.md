@@ -106,9 +106,22 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Deep Learning: [Pytorch](https://pytorch.org/), [Tinygrad](https://tinygrad.org), [Fastai](https://www.fast.ai/)
 - Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
 
-<br />
+### Technologies I use day to day
 
-Portfolio: [rudrodip.tech](https://rudrodip.tech)
-Twitter/X: [rds_agi](https://www.twitter.com/rds_agi)
-LinkedIn: [Rudrodip Sarker](https://linkedin.com/in/rudrodip)
-Peerlist: [Rudrodip Sarker](https://peerlist.io/rds_agi)
+- Languages: Tyepscript, Go, Python, C++
+- Frontend technology: Next.Js, Tailwindcss, Framer Motion, Vercel
+- Backend technology: Hono, FastAPI, Fiber, Mux
+- Web3: @solana/web3.js
+- Mobile: React Native (both Expo and raw)
+
+Here's the table with the keys in the left column and the values in the right column:
+
+|                     |              Link                                                       |
+|---------------------|-------------------------------------------------------------------------|
+| Portfolio           | [rudrodip.tech](https://rudrodip.tech)                                  |
+| Twitter/X           | [rds_agi](https://www.twitter.com/rds_agi)                              |
+| LinkedIn            | [Rudrodip Sarker](https://linkedin.com/in/rudrodip)                     |
+| Peerlist            | [Rudrodip Sarker](https://peerlist.io/rds_agi)                          |
+| Wellfound           | [Rudrodip Sarker](https://wellfound.com/u/rudrodip-sarker)              |
+| Schedule a call     | [cal.com/rds_agi](https://cal.com/rds_agi)                              |
+| Resume              | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) |
