@@ -114,7 +114,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Web3: @solana/web3.js
 - Mobile: React Native (both Expo and raw)
 
-Here's the table with the keys in the left column and the values in the right column:
 
 |                     |              Link                                                       |
 |---------------------|-------------------------------------------------------------------------|
