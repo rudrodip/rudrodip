@@ -119,8 +119,8 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 |---------------------|-------------------------------------------------------------------------|
 | Portfolio           | [rudrodip.tech](https://rudrodip.tech)                                  |
 | Twitter/X           | [rds_agi](https://www.twitter.com/rds_agi)                              |
-| LinkedIn            | [Rudrodip Sarker](https://linkedin.com/in/rudrodip)                     |
-| Peerlist            | [Rudrodip Sarker](https://peerlist.io/rds_agi)                          |
-| Wellfound           | [Rudrodip Sarker](https://wellfound.com/u/rudrodip-sarker)              |
+| LinkedIn            | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip)                     |
+| Peerlist            | [Rudro Dip Sarker](https://peerlist.io/rds_agi)                          |
+| Wellfound           | [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker)              |
 | Schedule a call     | [cal.com/rds_agi](https://cal.com/rds_agi)                              |
 | Resume              | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) |
