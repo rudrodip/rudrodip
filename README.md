@@ -88,8 +88,11 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Recent projects
 
-- [Sonicrypt](https://github.com/Sonicrypt) - Sonicrypt is an organization focused on improving the user experience for crypto transactions
+- [Timmygrad](https://github.com/rudrodip/timmygrad) - Scalar value gradient descent optimizer
+- [Kittyscribe](https://github.com/rudrodip/kittyscribe) - Microservice for transcribing audio/video files to text and transcoding video
+- [FastApi Template](https://github.com/rudrodip/fastapi-template) - Fastapi template for oauth, db, prisma orm support
 - [Seomage](https://www.npmjs.com/package/seomage) - [seomage](https://github.com/rudrodip/seomage) is a simple CLI tool to generate favicons in different sizes and formats from a single image
+- [Sonicrypt](https://github.com/Sonicrypt) - Sonicrypt is an organization focused on improving the user experience for crypto transactions
 - [Calloc](https://github.com/rudrodip/calloc) - Custom memory (heap) allocator implemented in C
 - [DummyLSP](https://github.com/rudrodip/dummylsp) - Its a simple lsp server implemented in go for learning purpose
 - [Nextemplate](https://nextemplate.vercel.app) - Collection of custom templates and components made with Next.JS, shadcn/ui and TailwindCSS
@@ -111,7 +114,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Languages: Tyepscript, Go, Python, C++
 - Frontend technology: Next.Js, Tailwindcss, Framer Motion, Vercel
 - Backend technology: Hono, FastAPI, Fiber, Mux
-- Web3: @solana/web3.js
+- Web3: Solana web3js, Solana wallet provider, Solana mobile wallet, Anchor
 - Mobile: React Native (both Expo and raw)
 
 
