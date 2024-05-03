@@ -97,8 +97,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
-<br />
-
 <div align="center">
   <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
 </div>
@@ -113,8 +111,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - [Calloc](https://github.com/rudrodip/calloc) - Custom memory (heap) allocator implemented in C
 - [DummyLSP](https://github.com/rudrodip/dummylsp) - Its a simple lsp server implemented in go for learning purpose
 - [Nextemplate](https://nextemplate.vercel.app) - Collection of custom templates and components made with Next.JS, shadcn/ui and TailwindCSS
-
-<br />
 
 ### Technologies I Love (I've diverse interest 😅)
 
