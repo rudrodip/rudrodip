@@ -97,10 +97,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
-<div align="center">
-  <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
-</div>
-
 ### Recent projects
 
 - [Timmygrad](https://github.com/rudrodip/timmygrad) - Scalar value gradient descent optimizer
@@ -129,3 +125,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Backend technology: Hono, FastAPI, Fiber, Mux
 - Web3: Solana web3js, Solana wallet provider, Solana mobile wallet, Anchor
 - Mobile: React Native (both Expo and raw)
+
+<div align="center">
+<img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
+</div>
