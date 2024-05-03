@@ -90,7 +90,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 <br />
 
 <div align="center">
-  <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="500" />
+  <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
 </div>
 
 ### Recent projects
