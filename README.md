@@ -6,18 +6,28 @@
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
 - 💻 I'm currently working on [**Sonicrypt**](https://sonicrypt.vercel.app), a sonification device for blockchain transaction
-- 🤖 I'm also diving into **AI** orchestration and agentic framework
-- 🎛️ I'm looking for **electronics** enthusiast, **CAD** designers, and **_Solana_** developers
+- 🤖 Deploying **AI** agents on cloud
+- 🎛️ Are you an **Electronics** enthusiast, **CAD** designer? lets connect!!
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
-- 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Elon Musk**](https://books.google.com.bd/books/about/Elon_Musk.html?id=HjyvEAAAQBAJ&redir_esc=y)
+- 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Learning Go**](https://www.oreilly.com/library/view/learning-go/9781492077206)
 
 <br />
+
+<div align="center">
+  
+| Portfolio | Twitter/X | LinkedIn | Peerlist |
+|-|-|-|-|
+| [rudrodip.tech](https://rudrodip.tech) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
+| Wellfound | Schedule a call | Resume | Upwork |
+| [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker) | [cal.com/rds_agi](https://cal.com/rds_agi) | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) | [Rudro Dip](https://www.upwork.com/freelancers/~0146386d87470a4343)|
+
+</div>
 
 ### Featured projects
 
 <details>
   <summary>
-    🔴 Sonicrypt - it is a compact and intuitive device designed to enhance the user experience for both buyers and sellers engaging in crypto transactions
+    🔴 Sonicrypt - World's first sonification device for blockchain transaction
   </summary>
 
   <br />
@@ -50,7 +60,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </details>
 
 <details>
-  <summary>🔵 NexusOS - is a platform that empowers researchers, scientists, and innovators to come together and collaborate on impactful scientific projects</summary>
+  <summary>🔵 NexusOS - Platform for empowering researchers, scientists, and innovators to come together and collaborate on open sourced projectss</summary>
 
   <br />
   
@@ -70,7 +80,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </details>
 
 <details>
-  <summary>⚪️ Harmonic Motion Analyzer - is designed to analyze the harmonic oscillation of an object using computer vision techniques</summary>
+  <summary>⚪️ Harmonic Motion Analyzer - Analyze harmonic motion with upto 99.89% accuracy using Computer Vision</summary>
 
   <br />
   
@@ -123,13 +133,3 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Backend technology: Hono, FastAPI, Fiber, Mux
 - Web3: Solana web3js, Solana wallet provider, Solana mobile wallet, Anchor
 - Mobile: React Native (both Expo and raw)
-
-<div align="center">
-  
-| Portfolio | Twitter/X | LinkedIn | Peerlist |
-|-|-|-|-|
-| [rudrodip.tech](https://rudrodip.tech) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
-| Wellfound | Schedule a call | Resume | Upwork |
-| [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker) | [cal.com/rds_agi](https://cal.com/rds_agi) | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) | [Rudro Dip](https://www.upwork.com/freelancers/~0146386d87470a4343)|
-
-</p>
