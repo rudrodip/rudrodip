@@ -117,9 +117,12 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Web3: Solana web3js, Solana wallet provider, Solana mobile wallet, Anchor
 - Mobile: React Native (both Expo and raw)
 
-
+<div align="center">
+  
 | Portfolio | Twitter/X | LinkedIn | Peerlist |
 |-|-|-|-|
 | [rudrodip.tech](https://rudrodip.tech) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
 | Wellfound | Schedule a call | Resume | Upwork |
 | [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker) | [cal.com/rds_agi](https://cal.com/rds_agi) | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) | [Rudro Dip](https://www.upwork.com/freelancers/~0146386d87470a4343)|
+
+</p>
