@@ -78,13 +78,20 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
   [Harmonic Motion Analyzer](https://github.com/rudrodip/Harmonic-Oscillator-CV) is designed to analyze the harmonic oscillation of an object using computer vision techniques
 
+  **Tech stack**:
+  - Language: Python
+  - GUI: PyQT5
+  - Libs: SciPy, OpenCV-headless, Numpy, Matplotlib, PyQT5-graph
+    
   Blog: [**_blog_**](https://www.rudrodip.tech/blog/harmonic-oscillation-analyzer)
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
 <br />
 
-<img align="right" style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="350" />
+<div align="center">
+  <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="500" />
+</div>
 
 ### Recent projects
 
