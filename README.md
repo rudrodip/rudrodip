@@ -99,6 +99,9 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Recent projects
 
+- [VRS](https://github.com/rudrodip/vite-react-shadcn) - Vite + React + ShadCN starter template
+- [minify](https://github.com/rudrodip/minify) - File compression & decompression cli tool using rust
+- [SolMovie](https://github.com/rudrodip/solmovie) - Movie review app on solana blockchain
 - [Timmygrad](https://github.com/rudrodip/timmygrad) - Scalar value gradient descent optimizer
 - [Kittyscribe](https://github.com/rudrodip/kittyscribe) - Microservice for transcribing audio/video files to text and transcoding video
 - [FastApi Template](https://github.com/rudrodip/fastapi-template) - Fastapi template for oauth, db, prisma orm support
@@ -123,8 +126,8 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 - Languages: Tyepscript, Go, Python, C++
 - Frontend technology: Next.Js, Tailwindcss, Framer Motion, Vercel
 - Backend technology: Hono, FastAPI, Fiber, Mux
-- Web3: Solana web3js, Solana wallet provider, Solana mobile wallet, Anchor
-- Mobile: React Native (both Expo and raw)
+- Web3: @solana/web3.js, @solana/spl-token, metaplex sdk, solana wallet provider, solana mobile wallet adapter, anchor,
+- Mobile: React Native (both Expo and vanilla)
 
 <div align="center">
 <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
