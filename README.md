@@ -99,6 +99,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Recent projects
 
+- [SolToken](https://github.com/rudrodip/soltoken) - Exercise project for demonstrating token creation and minting in solana blockchain
 - [VRS](https://github.com/rudrodip/vite-react-shadcn) - Vite + React + ShadCN starter template
 - [minify](https://github.com/rudrodip/minify) - File compression & decompression cli tool using rust
 - [SolMovie](https://github.com/rudrodip/solmovie) - Movie review app on solana blockchain
