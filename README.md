@@ -125,8 +125,8 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Technologies I use day to day
 
-- Languages: Tyepscript, Go, Python, C++
-- Frontend technology: Next.Js, Tailwindcss, Framer Motion, Vercel
+- Languages: Tyepscript, Rust, Go, Python, C++
+- Frontend technology: Next.Js, React, Tailwindcss, Framer Motion, Vercel, Fly.io
 - Backend technology: Hono, FastAPI, Fiber, Mux
 - Web3: @solana/web3.js, @solana/spl-token, metaplex sdk, solana wallet provider, solana mobile wallet adapter, anchor,
 - Mobile: React Native (both Expo and vanilla)
