@@ -99,6 +99,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Recent projects
 
+- [ytranscript](https://github.com/rudrodip/ytranscript) - rust crate for getting transcript of a youtube video
 - [askitty](https://github.com/rudrodip/askitty) - cli tool for interacting with generative ai built in rust
 - [SolToken](https://github.com/rudrodip/soltoken) - Exercise project for demonstrating token creation and minting in solana blockchain
 - [VRS](https://github.com/rudrodip/vite-react-shadcn) - Vite + React + ShadCN starter template
