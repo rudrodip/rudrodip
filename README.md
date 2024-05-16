@@ -5,8 +5,8 @@
 <img align='right' src='https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa' width='177'>
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
-- 💻 I'm currently working on [**Sonicrypt**](https://sonicrypt.vercel.app), a sonification device for blockchain transaction
-- 🤖 Deploying **AI** agents on cloud
+- 🤖 Currently building AI interface & deploying **AI** agents on cloud
+- 💻 Built [**Sonicrypt**](https://sonicrypt.vercel.app), world's first sonification device for blockchain transaction (events in general)
 - 🎛️ Are you an **Electronics** enthusiast, **CAD** designer? lets connect!!
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
 - 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Learning Go**](https://www.oreilly.com/library/view/learning-go/9781492077206)
