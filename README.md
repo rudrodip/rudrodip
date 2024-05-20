@@ -6,7 +6,7 @@
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
 - 🤖 Currently building AI interface & deploying **AI** agents on cloud
-- 💻 Built [**Sonicrypt**](https://sonicrypt.vercel.app), world's first sonification device for blockchain transaction (events in general)
+- 💻 Built [**Sonicrypt**](https://sonicrypt.rdsx.dev), world's first sonification device for blockchain transaction (events in general)
 - 🎛️ Are you an **Electronics** enthusiast, **CAD** designer? lets connect!!
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
 - 📚 Reading (latest): [**Operating system concepts**](https://books.google.com.bd/books/about/Operating_System_Concepts_9th_Edition.html?id=9VMcAAAAQBAJ&redir_esc=y), [**Deep learning for coders**](https://course.fast.ai/Resources/book.html), [**Learning Go**](https://www.oreilly.com/library/view/learning-go/9781492077206)
@@ -17,7 +17,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   
 | Portfolio | Twitter/X | LinkedIn | Peerlist |
 |-|-|-|-|
-| [rudrodip.tech](https://rudrodip.tech) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
+| [rdsx.dev](https://rdsx.dev) | [rds_agi](https://www.twitter.com/rds_agi) | [Rudro Dip Sarker](https://linkedin.com/in/rudrodip) | [Rudro Dip Sarker](https://peerlist.io/rds_agi) |
 | Wellfound | Schedule a call | Resume | Upwork |
 | [Rudro Dip Sarker](https://wellfound.com/u/rudrodip-sarker) | [cal.com/rds_agi](https://cal.com/rds_agi) | [rds_resume.pdf](https://raw.githubusercontent.com/rudrodip/rudrodip/main/resume.pdf) | [Rudro Dip](https://www.upwork.com/freelancers/~0146386d87470a4343)|
 
@@ -54,7 +54,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
     - Animation: Framer motion
     - Libs/SDKs: Solana web3js 
   
-  Website: [**_sonicrypt.vercel.app_**](https://sonicrypt.vercel.app)
+  Website: [**_sonicrypt.rdsx.dev_**](https://sonicrypt.rdsx.dev)
   Video: [**Youtube**](https://www.youtube.com/watch?v=yUm7kYV3p28)
   Twitter: [**@sonicrypt**](https://twitter.com/sonicrypt)
 </details>
@@ -93,7 +93,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   - GUI: PyQT5
   - Libs: SciPy, OpenCV-headless, Numpy, Matplotlib, PyQT5-graph
     
-  Blog: [**_blog_**](https://www.rudrodip.tech/blog/harmonic-oscillation-analyzer)
+  Blog: [**_blog_**](https://www.rdsx.dev/blog/harmonic-oscillation-analyzer)
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
