@@ -5,7 +5,7 @@
 <img align='right' src='https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa' width='177'>
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
-- 🤖 Currently building AI interface & deploying **AI** agents on cloud
+- 🤖 Currently building [leapflow](https://leapflow.tech) as a founding engineer
 - 💻 Built [**Sonicrypt**](https://sonicrypt.rdsx.dev), world's first sonification device for blockchain transaction (events in general)
 - 🎛️ Are you an **Electronics** enthusiast, **CAD** designer? lets connect!!
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
@@ -24,6 +24,30 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </div>
 
 ### Featured projects
+
+<details>
+  <summary>
+     🧠 Leapflow - building leapflow as a founding engineer
+  </summary>
+
+  <br />
+  
+  <img align="right" width="40%" src="https://github.com/rudrodip/rudrodip/assets/77154365/49c8d89c-efd3-4e47-b357-603d66986a73" />
+  
+  [Leapflow](https://leapflow.tech) is your one and only destination for automating your workflow, our AI agent can understand your requirement and make dynamic automations based on your workflow
+  
+  **Tech stack**:
+  
+  - Website
+    - Language: Typescript
+    - Framework: React
+    - Style: CSS, Tailwindcss
+    - Animation: Framer motion
+  
+  Website: [**leapflow.tech**](https://leapflow.tech)
+  Video: [**X**](https://x.com/nexxeln/status/1793655780304142827)
+  Twitter: [**@leapflowhq**](https://x.com/leapflowhq)
+</details>
 
 <details>
   <summary>
@@ -99,6 +123,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 
 ### Recent projects
 
+- [leapflow](https://leapflow.tech) - building AI agent for workflow automation as one of the founding engineers
 - [ytranscript](https://github.com/rudrodip/ytranscript) - rust crate for getting transcript of a youtube video
 - [askitty](https://github.com/rudrodip/askitty) - cli tool for interacting with generative ai built in rust
 - [SolToken](https://github.com/rudrodip/soltoken) - Exercise project for demonstrating token creation and minting in solana blockchain
