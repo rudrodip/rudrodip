@@ -1,11 +1,11 @@
-![banner](https://github.com/rudrodip/rudrodip/assets/77154365/4c4159af-e34b-4134-aace-443798798d08)
+![rds_agi](https://github.com/rudrodip/rudrodip/assets/77154365/0699adb3-7354-4c18-b030-1aa9578845ad)
 
 # Hi, I am Rudro (a.k.a. [@rds_agi](https://twitter.com/rds_agi))
 
 <img align='right' src='https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa' width='177'>
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
-- 🤖 Currently building [leapflow](https://leapflow.tech) as a founding engineer
+- 🤖 Currently building [**leapflow**](https://leapflow.tech) as a founding engineer
 - 💻 Built [**Sonicrypt**](https://sonicrypt.rdsx.dev), world's first sonification device for blockchain transaction (events in general)
 - 🎛️ Are you an **Electronics** enthusiast, **CAD** designer? lets connect!!
 - 🕹️ Hobbies: building [**_robots_**](https://www.youtube.com/watch?v=uYZytPxzjsk) and electronic device
