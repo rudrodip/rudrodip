@@ -162,4 +162,4 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 </div>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/rudrodip/rudrodip/assets/77154365/0bd7c7b4-e054-4de0-810c-56d03880b0a7?raw=true');]{x0000}$}
