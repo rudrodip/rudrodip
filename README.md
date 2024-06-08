@@ -160,3 +160,6 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 <div align="center">
 <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
 </div>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa?raw=true');]{x0000}$}
