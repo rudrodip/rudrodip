@@ -2,7 +2,7 @@
 
 # Hi, I am Rudro (a.k.a. [@rds_agi](https://twitter.com/rds_agi))
 
-<img align='right' src='https://github.com/rudrodip/rudrodip/assets/77154365/5e0fdf16-cdca-4bde-911f-afb7bc6fc6fa' width='177'>
+<img align='right' src='https://media.tenor.com/liFJWwwNPM8AAAAi/dessert-battlefield.gif' width='177'>
 I've been programming since 2019, explored Python, C, C++, web dev, robotics, computer vision, deep learning, and blockchain
 
 - 🤖 Currently building [**leapflow**](https://leapflow.tech) as a founding engineer
@@ -161,5 +161,10 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
 <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
 </div>
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/rudrodip/rudrodip/assets/77154365/0bd7c7b4-e054-4de0-810c-56d03880b0a7?raw=true');]{x0000}$}
+<div align="center">
+  <img align="center" src="https://github.com/rudrodip/rudrodip/assets/77154365/418dc441-e424-45cd-b36d-ec7dbd72da41" />
+  <img align="center" src="https://github.com/rudrodip/rudrodip/assets/77154365/418dc441-e424-45cd-b36d-ec7dbd72da41" />
+  <img align="center" src="https://github.com/rudrodip/rudrodip/assets/77154365/418dc441-e424-45cd-b36d-ec7dbd72da41" />
+  <img align="center" src="https://github.com/rudrodip/rudrodip/assets/77154365/418dc441-e424-45cd-b36d-ec7dbd72da41" />
+  <img align="center" src="https://github.com/rudrodip/rudrodip/assets/77154365/418dc441-e424-45cd-b36d-ec7dbd72da41" />
+</div>
