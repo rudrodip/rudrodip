@@ -121,41 +121,14 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   Video: [**Youtube**](https://www.youtube.com/watch?v=dalsCsHtreU&t=1220s)
 </details>
 
-### Recent projects
-
-- [leapflow](https://leapflow.tech) - building AI agent for workflow automation as one of the founding engineers
-- [ytranscript](https://github.com/rudrodip/ytranscript) - rust crate for getting transcript of a youtube video
-- [askitty](https://github.com/rudrodip/askitty) - cli tool for interacting with generative ai built in rust
-- [SolToken](https://github.com/rudrodip/soltoken) - Exercise project for demonstrating token creation and minting in solana blockchain
-- [VRS](https://github.com/rudrodip/vite-react-shadcn) - Vite + React + ShadCN starter template
-- [minify](https://github.com/rudrodip/minify) - File compression & decompression cli tool using rust
-- [SolMovie](https://github.com/rudrodip/solmovie) - Movie review app on solana blockchain
-- [Timmygrad](https://github.com/rudrodip/timmygrad) - Scalar value gradient descent optimizer
-- [Kittyscribe](https://github.com/rudrodip/kittyscribe) - Microservice for transcribing audio/video files to text and transcoding video
-- [FastApi Template](https://github.com/rudrodip/fastapi-template) - Fastapi template for oauth, db, prisma orm support
-- [Seomage](https://www.npmjs.com/package/seomage) - [seomage](https://github.com/rudrodip/seomage) is a simple CLI tool to generate favicons in different sizes and formats from a single image
-- [Sonicrypt](https://github.com/Sonicrypt) - Sonicrypt is an organization focused on improving the user experience for crypto transactions
-- [Calloc](https://github.com/rudrodip/calloc) - Custom memory (heap) allocator implemented in C
-- [DummyLSP](https://github.com/rudrodip/dummylsp) - Its a simple lsp server implemented in go for learning purpose
-- [Nextemplate](https://nextemplate.vercel.app) - Collection of custom templates and components made with Next.JS, shadcn/ui and TailwindCSS
-
-### Technologies I Love (I've diverse interest 😅)
-
-- Languages: C, C++, Python, Go, Rust, Javascript, Typescript, Dart, Solidity
-- Frontend framework: [React](https://react.dev/), [Next.js](https://nextjs.org/), [Qwik](https://qwik.dev/), [Astro](https://astro.build/)
-- Backend framework: [Hono](https://hono.dev), [Elysia](https://elysiajs.com/), [Express](https://expressjs.com/) [Echo](https://echo.labstack.com/), [Gin](https://gin-gonic.com/), [Chi](https://go-chi.io), [Fastapi](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
-- Web3 experience: [Ethereum chain](https://ethereum.org/en/), [Solana chain](https://solana.com/), [Sei chain](https://www.sei.io/), [Polygon chain](https://polygonscan.com/)
-- Mobile App Tech: [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/), [Expo](https://expo.dev/)
-- Deep Learning: [Pytorch](https://pytorch.org/), [Tinygrad](https://tinygrad.org), [Fastai](https://www.fast.ai/)
-- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
-
 ### Technologies I use day to day
 
-- Languages: Tyepscript, Rust, Go, Python, C++
-- Frontend technology: Next.Js, React, Tailwindcss, Framer Motion, Vercel, Fly.io
+- Languages: Typescript, Python, C++, Go, Rust
+- Frontend technology: Next.Js, React, Tailwindcss, Framer Motion
 - Backend technology: Hono, FastAPI, Fiber, Mux
 - Web3: @solana/web3.js, @solana/spl-token, metaplex sdk, solana wallet provider, solana mobile wallet adapter, anchor,
-- Mobile: React Native (both Expo and vanilla)
+- Mobile: React Native, Flutter
+- Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
 
 <div align="center">
 <img style="padding-top: 0px;" src="https://github-readme-streak-stats.herokuapp.com?user=rudrodip&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="rds_agi's GitHub Stats" width="400" />
