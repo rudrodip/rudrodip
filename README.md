@@ -62,7 +62,7 @@ I've been programming since 2019, explored Python, C, C++, web dev, robotics, co
   It consists of a hardware device, mobile app and a website
   
   **Tech stack**:
-  - Device
+  - Firmware
     - Language: C++
     - Microcontroller: ESP32-S3
    
