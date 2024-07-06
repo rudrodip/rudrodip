@@ -1,12 +1,12 @@
 [![rds_agi](https://github.com/rudrodip/rudrodip/assets/77154365/0699adb3-7354-4c18-b030-1aa9578845ad)](https://rdsx.dev)
 
-myself &rarr; [rdsx.dev](https://rdsx.dev)
+myself &rarr; [rdsx.dev](https://rdsx.dev) | resume &rarr; [resume](./resume.pdf) | projects &rarr; [projects](https://rdsx.dev)
 
 ### Featured projects
 
 <details>
   <summary>
-    🔴 Sonicrypt - World's first sonification device for blockchain transaction
+    ⚪️ Sonicrypt - World's first sonification device for blockchain transaction
   </summary>
 
   <br />
@@ -60,7 +60,7 @@ myself &rarr; [rdsx.dev](https://rdsx.dev)
 
 - Languages: Typescript, Python, C++, Go, Rust
 - Frontend technology: Next.Js, React, Tailwindcss, Framer Motion
-- Backend technology: Hono, FastAPI, Fiber, Mux
+- Backend technology: Hono, FastAPI, Fiber, Mux, ws, socket.io, WebRTC
 - Web3: @solana/web3.js, @solana/spl-token, metaplex sdk, solana wallet provider, solana mobile wallet adapter, anchor
 - Mobile: React Native, Flutter
 - Microcontrollers: Arduino UNO, Arduino Nano, Arduino Mega, ESP8266, ESP32 series and more (C++, C & Rust)
