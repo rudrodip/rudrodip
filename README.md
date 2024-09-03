@@ -33,9 +33,9 @@ myself &rarr; [rdsx.dev](https://rdsx.dev) | resume &rarr; [resume](https://driv
     - Animation: Framer motion
     - Libs/SDKs: Solana web3js 
   
-  Website: [**_sonicrypt.rdsx.dev_**](https://sonicrypt.rdsx.dev)
+  Website: [**_sonicrypt.rdsx.dev_**](https://sonicrypt.org)
   Video: [**Youtube**](https://www.youtube.com/watch?v=yUm7kYV3p28)
-  Twitter: [**@sonicrypt**](https://twitter.com/sonicrypt)
+  Twitter: [**@sonicrypt**](https://x.com/sonicrypt)
 </details>
 
 <details>
