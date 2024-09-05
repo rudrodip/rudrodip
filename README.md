@@ -1,6 +1,6 @@
 [![rds_agi](https://github.com/rudrodip/rudrodip/assets/77154365/0699adb3-7354-4c18-b030-1aa9578845ad)](https://rdsx.dev)
 
-myself &rarr; [rdsx.dev](https://rdsx.dev) | resume &rarr; [resume](https://drive.google.com/file/d/1IZrep-b2l6rbyY3cgvJjbrI2Qa8kmugN/view?usp=drive_link)
+myself &rarr; [rdsx.dev](https://rdsx.dev) • resume &rarr; [resume](https://drive.google.com/file/d/1HEX_TzOW2YgVPsBTcHtsxiVTT7xz-f7M/view?usp=sharing)
 
 ### Featured projects
 
