@@ -1,4 +1,4 @@
-[![rds_agi](https://github.com/rudrodip/rudrodip/assets/77154365/0699adb3-7354-4c18-b030-1aa9578845ad)](https://rdsx.dev)
+[![rds_agi](https://github.com/user-attachments/assets/54c99847-0279-4918-955c-a55956ae649b)](https://rdsx.dev)
 
 myself &rarr; [rdsx.dev](https://rdsx.dev) • resume &rarr; [resume](https://drive.google.com/file/d/1HEX_TzOW2YgVPsBTcHtsxiVTT7xz-f7M/view?usp=sharing)
 
